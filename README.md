@@ -1,5 +1,5 @@
-# sakura-meadow
-Where every swing meets spring.
+# Sakura Meadow
+*Where every swing meets spring.*
 
 Par 2
 
